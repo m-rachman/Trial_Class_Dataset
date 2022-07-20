@@ -13,6 +13,16 @@ this is the last task you have to complete and you will present it on day 3. Goo
 
 - If you finished the work you can send it by clicking [here](https://google.com)
 
+## Assignment Rubrics
+
+| Criteria | Meet Expectations |
+| --- | --- |
+| Problem Statement | choose a clear and well-described problem statement|
+| Well organized | All lines of code are well documented using Markdown for code explanation in Notebook |
+| Insight | Show insights in each visualization. |
+| Storytelling | Writing storytelling data with a good flow of analysis from problem identification to conclusion. |
+| Layout | how good chart layout in Data Studio and how informative the charts are|
+
 ## What is the dataset all about
 
 The dataset is about geographic and economic of 194 countries in 2011, you can see dataset columns down below
