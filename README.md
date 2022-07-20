@@ -9,9 +9,11 @@ this is the last task you have to complete and you will present it on day 3. Goo
 
 - you have two quest that you have to complete, which is creating data visualizations in data studio and making data visualizations in notebooks along with the narative
 
+- the notebook have to `ipynb` file and here is the example of write your notebook file `TrialClass_<your name>.ipynb` 
+
 - Before deciding which tables, columns, or other things in the dataset to use for data analysis and visualization, identify and describe the problem so that it can make your analysis easier.
 
-- If you finished the work you can send it by clicking [here](https://google.com)
+- If you finished the work you can send it by clicking [here](https://forms.gle/RFBT5J64RmNHrBwx9)
 
 
 ## What is the dataset all about
