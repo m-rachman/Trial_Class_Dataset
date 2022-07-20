@@ -5,7 +5,7 @@ this is the last task you have to complete and you will present it on day 3. Goo
 
 ## Assignment Instructions
 
-- you can download the data in this repository (`Code` > `Download Zip`)
+- you can download the data in this repository (`Code` > `Download Zip` > `data_trial_class (1).csv`)
 
 - you have two quest that you have to complete, which is creating data visualizations in data studio and making data visualizations in notebooks along with the narative
 
