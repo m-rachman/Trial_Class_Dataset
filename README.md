@@ -16,7 +16,7 @@ this is the last task you have to complete and you will present it on day 3. Goo
 
 ## What is the dataset all about
 
-The dataset is about geographic and economic of 194 countries in 2011, you can see dataset columns down below
+The dataset is about geographic and economic of 194 countries in 2011, you can see dataset columns description down below :
 
 ## Features Description
 
@@ -45,6 +45,8 @@ The dataset is about geographic and economic of 194 countries in 2011, you can s
 
 
 ## Assignment Rubrics
+
+**The jury's decision is final and cannot be contested** The jury's assessment will be emphasized on several aspects :
 
 | Criteria | Meet Expectations |
 | --- | --- |
