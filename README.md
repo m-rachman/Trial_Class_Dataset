@@ -1,8 +1,21 @@
+# Day 3 Assignment
 
-# Trial Class Dataset
+hello trial class participants, you made it! thank you for making it this far. 
+this is the last task you have to complete and you will present it on day 3. Good Luck! 
 
-The dataset is about geographic and economic of 194 countries in 2011
+## Assignment Instructions
 
+- you can download the data in this repository (`Code` > `Download Zip`)
+
+- you have two quest that you have to complete, which is creating data visualizations in data studio and making data visualizations in notebooks along with the narative
+
+- Before deciding which tables, columns, or other things in the dataset to use for data analysis and visualization, identify and describe the problem so that it can make your analysis easier.
+
+- If you finished the work you can send it by clicking [here](https://google.com)
+
+## What is the dataset all about
+
+The dataset is about geographic and economic of 194 countries in 2011, you can see dataset columns down below
 
 ## Features Description
 
@@ -27,12 +40,6 @@ The dataset is about geographic and economic of 194 countries in 2011
 | `Deathrate` | `float`| country's death rate|
 |`Agriculture`|`float`| percentage of country income from the agricultural sector|
 |`Industry`|`float`|percentage of country income from the manufacture sector|
-|`Service1`|`float`|percentage of country income from the service sector|
+|`Service`|`float`|percentage of country income from the service sector|
 
-## Assignment Instructions
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
 
