@@ -53,7 +53,6 @@ The dataset is about geographic and economic of 194 countries in 2011, you can s
 | Criteria | Meet Expectations |
 | --- | --- |
 | Problem Statement | choose a clear and well-described problem statement|
-| Well organized | All lines of code are well documented using Markdown for code explanation in Notebook |
 | Insight | Show insights in each visualization. |
 | Storytelling | Writing storytelling data with a good flow of analysis from problem identification to conclusion. |
 | Layout | how good chart layout in Data Studio and how informative the charts are|
